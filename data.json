@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 44.8337,
+        "lat": 41.6941
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 21,
+        "feels_like": 20.28,
+        "temp_min": 21,
+        "temp_max": 21,
+        "pressure": 1013,
+        "humidity": 43
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.57,
+        "deg": 60
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1621190571,
+    "sys": {
+        "type": 1,
+        "id": 8862,
+        "country": "GE",
+        "sunrise": 1621129213,
+        "sunset": 1621181643
+    },
+    "timezone": 14400,
+    "id": 611717,
+    "name": "Tbilisi",
+    "cod": 200
+}
